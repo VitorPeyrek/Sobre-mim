@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Vítor Peyrek CardosO
+ Olá, eu sou Vítor Peyrek Cardoso
 
 ## 🎓 Sobre Mim
 
