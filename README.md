@@ -1,5 +1,13 @@
 # 👋 Olá, eu sou Vítor Peyrek Cardoso
 
+Seja bem-vindo ao meu perfil! Tenho 22 anos e sou estudante de Engenharia da Computação na Universidade Veiga de Almeida (UVA).
+Sou apaixonado por tecnologia, com grande interesse tanto na área de software quanto na área de hardware.
+
+Gosto de explorar como as duas áreas se conectam — desde o desenvolvimento de sistemas até o funcionamento interno dos componentes que os tornam possíveis.️
+
+Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos que refletem minha jornada na área de TI.
+Fique à vontade para explorar e acompanhar minha evolução! 
+
 ## 🎓 Sobre Mim
 
 **Nome:** Vítor Peyrek Cardoso  
