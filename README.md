@@ -46,11 +46,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
 ---
-
-<div align="center">
-
-### 💡 *"Cada linha de código é um passo na minha jornada de aprendizado"*
-
-⭐ **Sempre aberto a novas oportunidades de aprendizado e colaboração!**
-
-</div>
