@@ -1,5 +1,3 @@
- Olá, eu sou Vítor Peyrek Cardoso
-
 ## 🎓 Sobre Mim
 
 **Nome:** Vítor Peyrek Cardoso  
